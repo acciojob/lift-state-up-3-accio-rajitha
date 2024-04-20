@@ -1,1 +1,24 @@
+*{
+    padding: 5px;
+}
+.parent{
+    border: 1px solid #adff2f;
+    background: rgb(103, 225, 103);
+    width: 450px;
+    height: 400px;
+    
+    
+}
+.child1{
+    border: 1px solid ridge;
+    background: rgb(225, 102, 57);
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.child2{
+    border: 1px solid rgba(255, 255, 0, 0.763);
+    background: rgb(197, 197, 11);
+    margin-right: 10px;
+    margin-left: 10px;
+}
 
